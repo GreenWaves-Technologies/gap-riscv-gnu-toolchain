@@ -10,9 +10,6 @@
 [submodule "riscv-glibc"]
 	path = riscv-glibc
 	url = https://github.com/riscv/riscv-glibc.git
-[submodule "pulp-riscv-newlib"]
-	path = pulp-riscv-newlib
-	url = git@github.com:pulp-platform/pulp-riscv-newlib.git
 [submodule "riscv-newlib"]
 	path = riscv-newlib
-	url = git@github.com:pulp-platform/pulp-riscv-newlib.git
+	url = https://github.com/GreenWaves-Technologies/pulp-riscv-newlib.git
